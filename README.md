@@ -1,1 +1,1 @@
-# Namaste Reactgit 
+# Namaste React
